@@ -1,4 +1,5 @@
-## Hi there 👋
+## idk how my code works
+go see my repos if u want to
 
 <!--
 **Neetify7/Neetify7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
