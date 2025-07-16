@@ -19,6 +19,7 @@ p {
 }
 
 a {
+    color: #e1e1e1;
     text-decoration: none;
     transition: color 0.2s ease;
 }
@@ -43,10 +44,6 @@ li {
 
 .title {
     font-size: 3em;
-}
-
-nav a {
-    color: #e1e1e1;
 }
 
 nav li {
